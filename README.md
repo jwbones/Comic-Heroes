@@ -1,4 +1,4 @@
-# Comic-Hero
+# Comic-Heroes
 
 We are attempting to create a Virtual Reality game using the HTC Vive as the main VR system with the potential to expand to other systems including the Oculus Rift. We began in October of 2018 and expect to complete the project by June of 2019.
 
